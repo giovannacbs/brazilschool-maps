@@ -10,4 +10,5 @@ Steps to create maps:
   5. Add [Brazil border](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html) and [indigenous lands](https://www.gov.br/funai/pt-br/atuacao/terras-indigenas/geoprocessamento-e-mapas) for context
   7. With Folium package, export to html file
 
-
+![Map1](https://github.com/giovannacbs/brazilschool-maps/blob/main/potablewater2023.png?raw=true)
+![Map2](https://github.com/giovannacbs/brazilschool-maps/blob/main/internet_map.png?raw=true)
